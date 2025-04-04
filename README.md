@@ -25,5 +25,16 @@ Dormlet is a scroll-core social space where you turn your NFTs into a cozy, expr
 Dormlet connects to the Codex universe. Chloe will guide new users through their scroll-core setup.
 
 ---
+/dormlet
+│
+├── README.md              # Intro, vision, screenshots
+├── /docs                  # Vision docs, character scripts, brand copy
+├── /unity-app             # Unity WebGL or build files
+├── /web-wallet            # WalletConnect integration, NFT pull
+├── /smart-contracts       # Optional: minting, decor NFTs, dorm metadata
+├── /design                # Mockups, assets, logos, UI flows
+├── /chloe                 # Chloe dialogue, lore scripts
+└── /public-drops          # Decor packs, shared metadata
+
 
 🌀 Join the movement. Dorm your world.
